@@ -1,0 +1,14 @@
+
+.laravel{
+	font-size: 30px;
+	text-align: center;
+	background-color: red;
+}
+.body{
+	background-color: red;
+}
+.footer{
+	background-color: gray;
+	margin-top: 680px;
+	text-align: center;
+}
